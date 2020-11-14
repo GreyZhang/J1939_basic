@@ -12,3 +12,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/109587534][448_J1939地址声明设计代码阅读分析]]
 - [[https://greyzhang.blog.csdn.net/article/details/109635675][450_J1939地址声明函数的调用处理分析]]
 - [[https://greyzhang.blog.csdn.net/article/details/109667070][451_J1939地址声明超时确认处理代码分析]]
+- [[https://greyzhang.blog.csdn.net/article/details/109692598][452_J1939广播多帧报文的例程分析]]
